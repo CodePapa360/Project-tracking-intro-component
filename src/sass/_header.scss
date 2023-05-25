@@ -47,20 +47,6 @@
     transition: transform 0.3s ease, opacity 0.3s ease, visibility 0.3s ease;
     z-index: 2;
 
-    @media screen and (min-width: 750px) {
-      all: unset;
-      display: flex;
-      list-style: none;
-      gap: 2rem;
-
-      a {
-        &:hover {
-          background: none;
-          text-decoration: underline;
-        }
-      }
-    }
-
     a {
       display: block;
       color: var(--very-dark-blue);
@@ -70,6 +56,20 @@
 
       &:hover {
         background-color: var(--light-grayish-blue);
+      }
+    }
+
+    @media screen and (min-width: 750px) {
+      all: unset;
+      display: flex;
+      list-style: none;
+      gap: 2rem;
+
+      a {
+        &:hover {
+          background-color: transparent;
+          text-decoration: underline;
+        }
       }
     }
 
