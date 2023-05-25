@@ -9,7 +9,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
 
 [🚀Live Site](https://project-tracking-intro-codepapa360.netlify.app/)
 |
-[💡Frontend Mentor]()
+[💡Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-project-tracking-intro-component-nrBDDE7zbl)
 
 </h2>
 
