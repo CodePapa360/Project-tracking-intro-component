@@ -14,7 +14,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
 </h2>
 
 <p align="center">
-
+A minimalist project tracking intro component created as a practice project from FrontendMentor. This solution was built using HTML, CSS, and JavaScript, showcasing responsive design and frontend development skills.
 </p>
 
 <a align="center" href="https://project-tracking-intro-component-codepapa360.netlify.app/">
@@ -34,14 +34,12 @@ Users should be able to:
 ## Built with
 
 - Semantic HTML5 markup
+- Mobile-first workflow
 - CSS custom properties
 - CSS Grid
 - JavaScript
-- Mobile-first workflow
 - NPM
 - [Webpack - a module bundler](https://webpack.js.org/)
-
-## What I learned
 
 ## Installation
 
