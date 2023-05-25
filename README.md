@@ -7,7 +7,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
 
 <h2 align="center">
 
-[🚀Live Site](https://project-tracking-intro-component-codepapa360.netlify.app/)
+[🚀Live Site](https://project-tracking-intro-codepapa360.netlify.app/)
 |
 [💡Frontend Mentor]()
 
@@ -17,7 +17,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
 A minimalist project tracking intro component created as a practice project from FrontendMentor. This solution was built using HTML, CSS, and JavaScript, showcasing responsive design and frontend development skills.
 </p>
 
-<a align="center" href="https://project-tracking-intro-component-codepapa360.netlify.app/">
+<a align="center" href="https://project-tracking-intro-codepapa360.netlify.app/">
 
 ![Screenshot](./screenshots/Project-tracking-intro-component-screenshot-codepapa360.png)
 
